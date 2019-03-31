@@ -1,3 +1,5 @@
+Fix For PHP7.3 https://wiki.php.net/rfc/continue_on_switch_deprecation
+
 # Linfo - Server stats UI/library
 
 [![Build Status](https://travis-ci.org/jrgp/linfo.svg?branch=master)](https://travis-ci.org/jrgp/linfo)
